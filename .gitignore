@@ -1,0 +1,22 @@
+*.class
+.classpath
+.project
+.settings/
+.svn/
+*.iml
+target/
+docs/
+bin/
+corpus/
+temp/
+tools/
+# Package Files #
+*.war
+*.ear
+build/
+/app/build
+.idea/
+*.DS_Store
+/.DS_Store
+/data/ceeaus/
+/data/ICNALE_Written_Essays_2.0/
